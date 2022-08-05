@@ -56,6 +56,12 @@ a:hover {
     padding: 20px 50px;
 }
 
+.bloc-sm2 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 50px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -707,6 +713,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: inline-block;
+    height: 48px;
+    width: 48px;
 }
 
 .contrasteajust {
