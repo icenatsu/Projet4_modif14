@@ -764,8 +764,23 @@ cite {
 }
 
 h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333;
+}
+
+#bloc-5-cta h2 {
+    font-size: 30px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+.col-sm-12>h2 {
     font-size: 22px;
     line-height: 1.4em;
+    text-transform: none;
+    font-weight: 700;
 }
 
 h3 {
